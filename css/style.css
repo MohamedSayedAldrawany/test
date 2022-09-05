@@ -1,0 +1,18 @@
+
+.login{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(60,9,121,1) 35%, rgba(50,43,144,1) 46%, rgba(44,65,158,1) 53%, rgba(0,212,255,1) 100%);
+    }
+
+.form-title,.checked,.forget-pass{
+    color:#fff !important;
+}
+.form-styles{
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.22222222);
+}
+.input-title{
+    color: #6C78E8;
+}
+input{
+    color: #fff !important;
+}
